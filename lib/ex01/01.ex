@@ -10,7 +10,3 @@ defmodule Exercise_01 do
         end)
     end
 end
-
-"o rato roeu a roupa do rato do rei de roma"
-|> Exercise_01.count_words
-|> IO.inspect
