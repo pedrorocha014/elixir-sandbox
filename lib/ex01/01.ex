@@ -1,6 +1,6 @@
 # Dado uma frase, deve retornar quantas vezes cada palavra foi usada.
 
-defmodule Exercise_01 do
+defmodule Exercise01 do
     def count_words(phrase)  do
         phrase
         |> String.downcase
